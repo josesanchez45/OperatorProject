@@ -1,0 +1,14 @@
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\bin\Debug\netcoreapp3.1\OperatorProject.exe
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\bin\Debug\netcoreapp3.1\OperatorProject.deps.json
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\bin\Debug\netcoreapp3.1\OperatorProject.runtimeconfig.json
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\bin\Debug\netcoreapp3.1\OperatorProject.runtimeconfig.dev.json
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\bin\Debug\netcoreapp3.1\OperatorProject.dll
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\bin\Debug\netcoreapp3.1\OperatorProject.pdb
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\obj\Debug\netcoreapp3.1\OperatorProject.csproj.AssemblyReference.cache
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\obj\Debug\netcoreapp3.1\OperatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\obj\Debug\netcoreapp3.1\OperatorProject.AssemblyInfoInputs.cache
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\obj\Debug\netcoreapp3.1\OperatorProject.AssemblyInfo.cs
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\obj\Debug\netcoreapp3.1\OperatorProject.csproj.CoreCompileInputs.cache
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\obj\Debug\netcoreapp3.1\OperatorProject.dll
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\obj\Debug\netcoreapp3.1\OperatorProject.pdb
+C:\Users\17144\Desktop\repos\OperatorProject\OperatorProject\obj\Debug\netcoreapp3.1\OperatorProject.genruntimeconfig.cache
