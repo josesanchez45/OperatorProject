@@ -21,7 +21,9 @@ namespace OperatorProject
             int subtraction = a - b;
 
             if (a == 17 && b == 4) ;
-            Console.WriteLine($"{a}/{b} is {quotient} with remainder {remainder}");
+            {
+                Console.WriteLine($"{a}/{b} is {quotient} with remainder {remainder}");
+            }
             Console.WriteLine();
             Console.WriteLine("Please enter the radius of your circle:");
             var userinput= Console.ReadLine();
